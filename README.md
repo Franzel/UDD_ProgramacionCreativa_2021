@@ -11,9 +11,9 @@
 ## Descripción del Curso
 En este curso el alumno aprende los fundamentos y conocimientos básicos de la programación y pensamiento computacional, para ejecutar ejercicios simples comprendiendo la lógica del lenguaje de códigos. El alumno entiende el rol que juega la computación en la resolución de problemas y aprecia el uso de los principios fundamentales del diseño modular y abstracto en variados contextos.
 
-Se dicta en el la mención Diseño de Interacción Digital, pertenece a la línea 'Representación y Medios' y aporta en el desarrollo de las competencias: Observación y Conceptualización, Herramientas Tecnológicas y Procesos de Producción.
+La asignatura contiene los elementos para el aprendizaje de lógicas computacionales en lenguajes de programación para la realización, por medio de un trabajo práctico de manera individual, de resultados gráficos de alta complejidad, en formatos digitales y análogos; y la resolución de problemas por medio de la identificación y caracterización de cada parte dentro de un total.
 
-Este curso se dicta en modalidad 100% online. La administración del curso se realizará a través de la plataforma Canvas. 
+A través del trabajo personal y discusión grupal, el estudiante desarrollará procesos creativos y de documentación hacia el análisis crítico de un entorno contemporáneo cambiante en torno a la innovación tecnológica. 
 
 ## Competencias
 Junto con los conocimientos introductorios al pensamiento computacional, este curso desarrolla en los estudiantes las habilidades o competencias de **Creatividad** y **Dominio de Herramientas Metodológicas**. El desarrollo de dichas competencias es parte del modelo educativo de la Facultad de Diseño.
@@ -33,7 +33,6 @@ Las evaluaciones se componen de:
 
 Existirán 4 evaluaciones calificadas ("Encargos") durante el semestre, más el Examen Final.
 Los encargos ponderan un 70% de la calificación final, y el Examen Final corresponde al 30% restante.
-Para más detalle, ver Calendario Resumen correspondiente a su sección.
 
 
 ## Asistencia, participación y proactividad
