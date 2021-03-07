@@ -13,7 +13,7 @@ En este curso el alumno aprende los fundamentos y conocimientos básicos de la p
 
 La asignatura contiene los elementos para el aprendizaje de lógicas computacionales en lenguajes de programación para la realización, por medio de un trabajo práctico de manera individual, de resultados gráficos de alta complejidad, en formatos digitales y análogos; y la resolución de problemas por medio de la identificación y caracterización de cada parte dentro de un total.
 
-A través del trabajo personal y discusión grupal, el estudiante desarrollará procesos creativos y de documentación hacia el análisis crítico de un entorno contemporáneo cambiante en torno a la innovación tecnológica. 
+A través del trabajo personal y discusión grupal, el estudiante desarrollará procesos creativos y de documentación hacia el análisis crítico de un entorno contemporáneo cambiante en torno a la innovación tecnológica.
 
 ## Competencias
 Junto con los conocimientos introductorios al pensamiento computacional, este curso desarrolla en los estudiantes las habilidades o competencias de **Creatividad** y **Dominio de Herramientas Metodológicas**. El desarrollo de dichas competencias es parte del modelo educativo de la Facultad de Diseño.
@@ -38,7 +38,7 @@ Los encargos ponderan un 70% de la calificación final, y el Examen Final corres
 ## Asistencia, participación y proactividad
 
 * Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al trabajo propio y al de sus pares.
-* La asistencia mínima para aprobar el curso es de 75%, esto se aplica tanto para las clases como para las ayudantías y se cuentan por separado. Por ejemplo el alumno reprobará el ramo si tiene un 100% de asistencia en clases pero un 60% en ayudantías. Para más información, ver el [instructivo de asistencia](https://github.com/Franzel/UDD_Programacion_2018_4bim/blob/master/Documentos_UDD/Instructivo%20de%20Asistencia%20vigente%20desde%20junio2018.pdf)
+* La asistencia mínima para aprobar el curso es de 75%, esto se aplica tanto para las clases como para las ayudantías y se cuentan por separado. Por ejemplo el alumno reprobará el ramo si tiene un 100% de asistencia en clases pero un 60% en ayudantías. Para más información, ver el [instructivo de asistencia](https://github.com/Franzel/UDD_ProgramacionCreativa_2021/blob/main/Documentos_curso/Instructivo%20de%20Asistencia%20vigente%20desde%20junio2018.pdf)
 
 ## IMPORTANTE!! Compromiso Ético
 
@@ -51,7 +51,7 @@ El uso de estas fuentes está permitido, pero solo en tanto existan tres condici
 * **Siempre** exista atribución a la fuente original de dicho material, incluyendo explícitamente el URL fuente en el código mismo.
 * **Apropriación responsable**, es decir, el código usado debe haber sido modificado y/o remezclado **lo suficiente** para que no constituya un plagio (no cuenta por ejemplo, cambiar el color o tamaño de los elementos).
 
-**La práctica de plagio no será tolerada y es considerada una falta grave**. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Integridad Academica] de la Facultad de Diseño.
+**La práctica de plagio no será tolerada y es considerada una falta grave**. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Integridad Academica](https://github.com/Franzel/UDD_ProgramacionCreativa_2021/blob/main/Documentos_curso/INSTRUCTIVO%20DE%20INTEGRIDAD%20%20ACADEMICA_diseno%20UDD.pdf) de la Facultad de Diseño.
 
 ## Bibliografía
 ### Bibliografía Obligatoria:
