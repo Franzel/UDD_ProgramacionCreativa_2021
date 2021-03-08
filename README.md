@@ -9,7 +9,7 @@
 
 
 ## Descripción del Curso
-Esta asignatura contiene los elementos para el aprendizaje de lógicas computacionales en lenguajes de programación para la realización, por medio de un trabajo práctico de manera individual, de resultados gráficos de alta complejidad, en formatos digitales y análogos; y la resolución de problemas por medio de la identificación y caracterización de cada parte dentro de un total.
+Esta asignatura contiene los elementos para el aprendizaje de lógicas computacionales en lenguajes de programación para la realización, por medio de un trabajo práctico de manera individual, de resultados gráficos de alta complejidad, en formatos digitales y con un énfasis en la visualización de datos; y la resolución de problemas por medio de la identificación y caracterización de cada parte dentro de un total.
 
 A través del trabajo personal y discusión grupal, el estudiante desarrollará procesos creativos y de documentación hacia el análisis crítico de un entorno contemporáneo cambiante en torno a la innovación tecnológica.
 
@@ -19,9 +19,9 @@ Junto con los conocimientos introductorios al pensamiento computacional, este cu
 ## Formato y Duración
 * El curso tiene una duración de 17 sesiones.
 * El contenido, encargos y documentos del curso completo se encontrarán en esta misma plataforma.
-* Previo a cada clase, los estudiantes deberán completar las lecturas (y revisión de material bibliográfico en video) asignados para cada sesión.
 * Durante cada sesión, se desarrollarán ejercicios prácticos.
 * El aprendizaje se desarrolla a través de la discusión guiada, el análisis de ejercicios y ejecución de proyectos.
+* La resolución de dudas se realizarádurante la clase, pero principalmente en el horario de Ayudantía. Para dudas en el camino hemos implementado un espacio en Slack para el curso. Se espera que todos participen, ya sea con dudas y ayuda a sus pares y compartiendo proyectos interesantes que se encuentren.
 
 ## Evaluación
 
@@ -29,7 +29,7 @@ Las evaluaciones se componen de:
 * Ejercicios bi-semanales
 * Examen Final
 
-Existirán 4 evaluaciones calificadas ("Encargos") durante el semestre, más el Examen Final.
+Existirán 5 evaluaciones calificadas ("Encargos") durante el semestre, más el Examen Final.
 Los encargos ponderan un 70% de la calificación final, y el Examen Final corresponde al 30% restante.
 
 
