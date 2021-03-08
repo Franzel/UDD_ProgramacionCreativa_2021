@@ -9,9 +9,7 @@
 
 
 ## Descripción del Curso
-En este curso el alumno aprende los fundamentos y conocimientos básicos de la programación y pensamiento computacional, para ejecutar ejercicios simples comprendiendo la lógica del lenguaje de códigos. El alumno entiende el rol que juega la computación en la resolución de problemas y aprecia el uso de los principios fundamentales del diseño modular y abstracto en variados contextos.
-
-La asignatura contiene los elementos para el aprendizaje de lógicas computacionales en lenguajes de programación para la realización, por medio de un trabajo práctico de manera individual, de resultados gráficos de alta complejidad, en formatos digitales y análogos; y la resolución de problemas por medio de la identificación y caracterización de cada parte dentro de un total.
+Esta asignatura contiene los elementos para el aprendizaje de lógicas computacionales en lenguajes de programación para la realización, por medio de un trabajo práctico de manera individual, de resultados gráficos de alta complejidad, en formatos digitales y análogos; y la resolución de problemas por medio de la identificación y caracterización de cada parte dentro de un total.
 
 A través del trabajo personal y discusión grupal, el estudiante desarrollará procesos creativos y de documentación hacia el análisis crítico de un entorno contemporáneo cambiante en torno a la innovación tecnológica.
 
