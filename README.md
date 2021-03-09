@@ -53,9 +53,11 @@ El uso de estas fuentes está permitido, pero solo en tanto existan tres condici
 
 ## Bibliografía
 ### Bibliografía Obligatoria:
-1.	Shiffman, D. (n.d.). Hello Processing. Recuperado: 10 de julio de 2015, desde [http://hello.processing.org](http://hello.processing.org)
-2.	Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
-
+1. Casey Reas and Ben Fry. (2014) Processing: A Programming Handbook for Visual Designers,(2ndEdition) The MIT Press.
+2. Daniel Shiffman.(2015) Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction. Morgan Kaufmann.
+3. Daniel Shiffman.(2012). The Nature of Code: Simulating Natural Systems with Processing. PDF, Web.
+4. Data Flow. (2008). Visualising Information in Graphic Design. Gestalten.
+5. Data Flow 2. (2010). Visualising Information in Graphic Design. Shape.
+   
 ### Bibliografía Complementaria:
-1.	Processing Foundation. Descargar Processing. Recuperado: 7 de Mayo 2017, desde [http://www.processing.org/download](http://www.processing.org/download)
-2.	Programación Creativa con Processing. Recuperado: 7 de Mayo 2017 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
+The Coding Train (2016). Accompanying code and more for YouTube video tutorials [https://github.com/CodingTrain/Rainbow-Code](https://github.com/CodingTrain/Rainbow-Code)
