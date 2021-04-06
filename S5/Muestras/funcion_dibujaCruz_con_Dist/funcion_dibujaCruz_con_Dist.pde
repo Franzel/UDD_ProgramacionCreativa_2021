@@ -20,7 +20,7 @@ void dibujaCruz(float centroX,  float centroY, float dist) {
   pushMatrix();
   translate(centroX, centroY); 
   rotate(radians(mouseX)); 
-  ellipse(0, 0, 20, 20); 
+  ellipse(0, 0, 40 * dist, 4); 
   line(0, -40*dist, 0, -80*dist); 
   line(40*dist, 0, 80*dist, 0); 
   line(0, 40*dist, 0,  80*dist); 
