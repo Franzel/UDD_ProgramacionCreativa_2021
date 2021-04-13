@@ -1,6 +1,9 @@
 //Declaramos los arrays (vacios por el momemnto), le asignamos un 'largo'
-float [] misNumeros = new float [10];
-color [] misColores = new color [10];
+
+int cantidad = 10;
+
+float [] misNumeros = new float [cantidad];
+color [] misColores = new color [cantidad];
 
 void setup() {
   size(800,300);
