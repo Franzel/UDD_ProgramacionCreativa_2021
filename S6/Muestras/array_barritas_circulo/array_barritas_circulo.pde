@@ -2,7 +2,7 @@
 float[] tams = new float[64];
 
 void setup() {
-  size(512, 512); 
+  size(800,800); 
   //cuando decimos tams.length estamos pidiendo el "largo" de la lista o el "tamano del array"
   //definido arriba cuando creamos el array.
   //Aca en el setup estamos rellenando el array con una serie de numeros random.
