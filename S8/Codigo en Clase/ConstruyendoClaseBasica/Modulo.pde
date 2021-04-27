@@ -10,12 +10,12 @@ class Modulo {
     posX = 100;
     posY = 200;
     tam = 45;
-    col = c;
+    col = c; //aca asigno "c" (que viene desde fuera) a "col", que es mi variable de la clase
   }
 
   //metodos
   void dibuja() {
-    fill(col);
+    fill(col); //aca ocupo mi variable col
     ellipse(posX, posY, tam, tam);
   }
   void tirita() {
