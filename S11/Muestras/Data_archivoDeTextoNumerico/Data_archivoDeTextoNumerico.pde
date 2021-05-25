@@ -10,7 +10,7 @@ void setup() {
   String[] numeros = loadStrings("data.csv");
   
   // convertir los strings a ints, usando la funcion split() y la coma
-  // ver mas sobre split() en la documentaci'on de processing
+  // ver mas sobre split() en la documentacion de processing
   data = int(split(numeros[0], ','));
 }
 

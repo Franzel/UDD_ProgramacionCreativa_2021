@@ -1,17 +1,28 @@
-PFont fuente; // Paso 1: decalrar la variable PFont
-int tamano = 24;
-
-
-void setup(){
-  size(500, 300);
-  fuente = createFont("Arial.ttf", tamano, false); // Paso 2: crear o "cargar" la fuente (nombre fuente, tamaño, antialias si/no)
-  
+void setup() {
+  size(500, 500);
 }
 
-void draw(){
+void draw() {
   background(255);
-  textFont(fuente, tamano); // Paso 3: especificar qué fuente usar. Puede ser distinto al inicial en el setup()
-  fill(0); // Paso 4: especificar qué color
-  text("Texto en Processing!", 100,100); // Paso 5: Texto a dibujar (texto, posX, posY)
+  textSize(14);
+  fill(0);
+  textAlign(CENTER);
+  text("Texto en Processing", width/2, height/2);
+  
+  textSize(20 + sin(frameCount * 0.05) * 8);
+  text("Texto animado", width/2, height/2 + 100);
+  
+  pushMatrix();
+  translate(100, height/2+100);
+  rotate(radians(90));
+  textSize(18);
+  fill(255,0,0);
+  text("Texto rotado", 0,0);
+  popMatrix();
+  
+  textSize(16);
+  fill(0,200,100);
+  String t = "texto a traves de variable String";
+  text(t, width/2, height-100);
   
 }

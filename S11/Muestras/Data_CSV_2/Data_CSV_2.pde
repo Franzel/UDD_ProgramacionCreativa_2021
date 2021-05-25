@@ -1,14 +1,12 @@
 Table table;
-float ancho = 5;
+float ancho = 8;
 float espacio = 10;
 
 
 void setup() {
     size(512, 1000);
     table = loadTable("ingresos.csv", "header");
-    println(table.getRowCount() + " filas en la tabla");
-    surface.setLocation(1920-width, 50);
-    
+    println(table.getRowCount() + " filas en la tabla");    
 }
 
 void draw() {
@@ -20,16 +18,16 @@ void draw() {
         String v0 = table.getString(i,0);
         int v1 = table.getInt(i,1);
         
-        text(v0,        100,50 +(espacio + ancho)*i);
-        
+        fill(150,0,0);
+        textAlign(RIGHT);
+        text(v0, 180, 50 +(espacio + ancho)*i);
 
-        float largoBarra = map (v1, 0, 3000000, 0, 200);
-        fill(0,150);
-        rect(250, 50 +(espacio + ancho)*i, largoBarra, -ancho);
-        
-        text(v1,       250+ largoBarra,50 +(espacio + ancho)*i);
+        float largoBarra = map (v1, 0, 3000000, 0, 200);    
+        rect(200, 50 +(espacio + ancho)*i, largoBarra, -ancho);
+      
+        textAlign(LEFT);
+        text(v1,200 + largoBarra + 10,50 +(espacio + ancho)*i);
         noStroke();
         fill(255,0,0);
-        
     }
 }
