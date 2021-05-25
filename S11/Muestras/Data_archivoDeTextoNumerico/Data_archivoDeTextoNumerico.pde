@@ -9,7 +9,8 @@ void setup() {
   // Cargar el archivo como un array de strings
   String[] numeros = loadStrings("data.csv");
   
-  // convertir los strings a ints, usando la coma
+  // convertir los strings a ints, usando la funcion split() y la coma
+  // ver mas sobre split() en la documentaci'on de processing
   data = int(split(numeros[0], ','));
 }
 
@@ -20,5 +21,6 @@ void draw() {
     //usar la informacion guardada en el array para dibujar y pintar barras
     fill(data[i] * 10, 0, 0);
     rect(i*50,150, 20, -data[i]);
+    text(data[i], i*50, 170);
   }
 }
